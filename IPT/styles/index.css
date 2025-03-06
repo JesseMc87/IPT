@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap" rel="stylesheet');
+
+.navbar {
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.677));
+}   
+
+body{
+    background-color: #111111;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+p{
+    font-family: 'Teko';
+    font-size: 21px;
+}
+a{
+    font-family: 'Teko';
+}
+.btn{
+    font-family: "Teko";
+}
+.discover{
+    font-family: 'Teko';
+    font-size: 60px;
+    color: rgb(255, 0, 0);
+}
+.card{
+    background-image: -o-linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.677));
+}
+img{
+    background-image: linear-gradient(rgb(59, 107, 116), rgba(146, 24, 24, 0.677));
+}
