@@ -4,19 +4,64 @@
     color: rgb(255, 255, 255);
     background-image: linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.677));
 }   
+.jumbotron{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.39), rgba(0, 0, 0, 0.205)),url(ellie.jpg);
+    font-family: 'Teko';
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: 80%;
 
+}
+.jumbotronSec{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.39), rgba(0, 0, 0, 0.205)),url(jumback.jpg);
+    font-family: 'Teko';
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: 80%;
+}
+.spidy{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.39), rgba(0, 0, 0, 0.205)),url(spidy.jpg);
+    font-family: 'Teko';
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: 80%;
+}
+.ellie{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.39), rgba(0, 0, 0, 0.205)),url(ellie2.jpg);
+    font-family: 'Teko';
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: 80%;
+}
+.cyber{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.39), rgba(0, 0, 0, 0.205)),url(logo3.jpg);
+    font-family: 'Teko';
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: 80%;
+}
 body{
     background-color: #111111;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: bottom;
+    
 }
+image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.39), rgba(0, 0, 0, 0.205))
+}
+
 h1{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+h5{
+    font-family: 'Teko';
 }
 p{
     font-family: 'Teko';
     font-size: 21px;
+}
+.text{
+    text-align: justify;
 }
 a{
     font-family: 'Teko';
@@ -27,11 +72,9 @@ a{
 .discover{
     font-family: 'Teko';
     font-size: 60px;
-    color: rgb(255, 0, 0);
+    color: #dc3545;
+    text-shadow: #e9e9e9;
 }
 .card{
     background-image: -o-linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.677));
-}
-img{
-    background-image: linear-gradient(rgb(59, 107, 116), rgba(146, 24, 24, 0.677));
 }

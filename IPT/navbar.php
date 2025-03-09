@@ -12,12 +12,24 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="landingpage.php">Home</a>
         </li>
-          <a class="nav-link active" aria-current="page" href="#">Genre</a>
+        <li class="nav-item dropdown ">
+          <a class="nav-link dropdown-toggle " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Tags
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Adventure</a></li>
+            <li><a class="dropdown-item" href="#">RPG</a></li>
+            <li><a class="dropdown-item" href="#">Horror</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">All Tags<span class="badge text-bg-danger"></span></a></li>
+          </ul>
+        </li>
         <li class="nav-item dropdown ">
           <a class="nav-link dropdown-toggle " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Account
-          </a>
-          <ul class="dropdown-menu">
+            <span class="badge text-bg-danger">5</span></a>
+          <ul class="dropdown-menu ">
             <li><a class="dropdown-item" href="#">Profile<span class="badge text-bg-danger">4</span></a></li>
             <li><a class="dropdown-item" href="#">Library<span class="badge text-bg-danger">1</span></a></li>
             <li><hr class="dropdown-divider"></li>
@@ -33,12 +45,13 @@
     </form>
   </div>
 </nav>
-      <div class="dropdown btn-group dropstart">
-  <button type="button" class="btn btn-danger dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside">
-    Login
+      <div class=" btn-group dropstart">
+      <button type="button" class="btn btn-sm btn-danger dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
+    <span class="visually-hidden">Toggle Dropdown</span>
   </button>
+  <a class="btn btn-danger p-0" href="LogForm.php" role="button"><button type="submit" class="btn btn-danger">Sign in</button></a>
   <div class="dropdown-menu">
-  <form class="px-4 py-3">
+  <form class="px-3 py-3 ">
     <div class="mb-3">
       <label for="exampleDropdownFormEmail1" class="form-label">Email address</label>
       <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="email@example.com">
@@ -55,7 +68,7 @@
         </label>
       </div>
     </div>
-    <button type="submit" class="btn btn-danger">Sign in</button>
+    <a class="btn-danger" href="LogForm.php" role="button"><button type="submit" class="btn">Sign in</button></a>
   </form>
   <div class="dropdown-divider"></div>
   <a class="dropdown-item" href="#">New around here? Sign up</a>
