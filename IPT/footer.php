@@ -36,7 +36,7 @@
           <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Features</a></li>
           <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Pricing</a></li>
           <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">FAQs</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">About</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" data-bs-toggle="modal" data-bs-target="#exampleModal">Add Cart</a></li>
         </ul>
       </div>
 

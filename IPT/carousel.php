@@ -15,8 +15,8 @@
       <p>OEndure and survive. Experience the emotional storytelling  
             <br>and unforgettable characters in The Last of Us, now available for PC.
         </p>
-        <a href="#" class="btn btn-danger"> $49.99 Buy</a>
-        <a href="#" class="btn btn-danger">Add to Cart</a>
+        <a href="#" class="btn btn-outline-light"> $49.99 Buy</a>
+        <a href="#" class="btn btn-outline-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">Add to Cart</a>
       </div>
     </div>
     <div class="carousel-item">
@@ -26,8 +26,8 @@
             <br>Sam and Drake set off to find Libertalia, 
             the pirate utopia deep in the forests of Madagascar.
         </p>
-        <a href="#" class="btn btn-danger"> $49.99 Buy</a>
-        <a href="#" class="btn btn-danger">Add to Cart</a>
+        <a href="#" class="btn btn-outline-light"> $49.99 Buy</a>
+        <a href="#" class="btn btn-outline-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">Add to Cart</a>
       </div>
     </div>
     <div class="carousel-item">
@@ -36,8 +36,8 @@
       <p>Experience the wizarding world in an unexplored era to uncover a hidden truth from its past.  
             <br>Battle against trolls, Dark Wizards, goblins, and more
         </p>
-        <a href="#" class="btn btn-danger"> $49.99 Buy</a>
-        <a href="#" class="btn btn-danger">Add to Cart</a>
+        <a href="#" class="btn btn-outline-light"> $49.99 Buy</a>
+        <a href="#" class="btn btn-outline-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">Add to Cart</a>
       </div>
     </div>
     <div class="carousel-item">
@@ -46,8 +46,8 @@
       <p>The year is 1715. Pirates rule the 
         Caribbean and have established their own lawless Republic where corruption, greediness and cruelty are commonplace.
         </p>
-        <a href="#" class="btn btn-danger"> $11.99 Buy</a>
-        <a href="#" class="btn btn-danger">Add to Cart</a>
+        <a href="#" class="btn btn-outline-light"> $11.99 Buy</a>
+        <a href="#" class="btn btn-outline-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">Add to Cart</a>
       </div>
     </div>
     <div class="carousel-item">
@@ -56,8 +56,8 @@
       <p>Winner of more than 200 Game of the Year Awards, 
             <br>The Elder Scrolls V: Skyrim Special Edition brings the epic fantasy to life in stunning detail. 
         </p>
-        <a href="#" class="btn btn-danger"> $39.99 Buy</a>
-        <a href="#" class="btn btn-danger">Add to Cart</a>
+        <a href="#" class="btn btn-outline-light"> $39.99 Buy</a>
+        <a href="#" class="btn btn-outline-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">Add to Cart</a>
       </div>
     </div>
   </div>

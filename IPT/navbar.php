@@ -45,36 +45,10 @@
     </form>
   </div>
 </nav>
-      <div class=" btn-group dropstart">
-      <button type="button" class="btn btn-sm btn-danger dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-    <span class="visually-hidden">Toggle Dropdown</span>
   </button>
-  <a class="btn btn-danger p-0" href="LogForm.php" role="button"><button type="submit" class="btn btn-danger">Sign in</button></a>
-  <div class="dropdown-menu">
-  <form class="px-3 py-3 ">
-    <div class="mb-3">
-      <label for="exampleDropdownFormEmail1" class="form-label">Email address</label>
-      <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="email@example.com">
-    </div>
-    <div class="mb-3">
-      <label for="exampleDropdownFormPassword1" class="form-label">Password</label>
-      <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Password">
-    </div>
-    <div class="mb-3">
-      <div class="form-check">
-        <input type="checkbox" class="form-check-input" id="dropdownCheck">
-        <label class="form-check-label" for="dropdownCheck">
-          Remember me
-        </label>
-      </div>
-    </div>
-    <a class="btn-danger" href="LogForm.php" role="button"><button type="submit" class="btn">Sign in</button></a>
-  </form>
-  <div class="dropdown-divider"></div>
-  <a class="dropdown-item" href="#">New around here? Sign up</a>
-  <a class="dropdown-item" href="#">Forgot password?</a>
-</div>
-</div>
+  <a class="btn btn-danger p-0" href="#"  role="button"><button type="submit" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#Signin">Sign in </button></a>
+  
+
     </div>
   </div>
 </nav>

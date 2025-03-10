@@ -3,5 +3,5 @@
 <hr class="hrr w-25">       
           <p>Cyberpunk 2077 takes place in Night City (NC), an American · 
             <br>The primary protagonist of Cyberpunk 2077 is Vincent / Valerie, known as V
-            <br><button class="btn  btn-outline-light btn-hover-danger" type="button ">Get Game</button>
+            <br><button class="btn  btn-outline-light" type="button ">Get Game</button>
         </div>

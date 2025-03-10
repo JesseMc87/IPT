@@ -19,13 +19,14 @@
     <div class=" text-center text-emphasis">
     <?php include 'carousel.php';?>
     </div>
-    <?php include 'radio.php';?>
     <br>
-    <?php include 'body.php';?>
+    <?php include 'card.php';?>
     
 <br>
 <div class="text-center">
- <a href="#" class="btn btn-danger text-center"> Load More..</a>
+<button type="button" class="btn btn-danger">
+  Load More...
+</button>
 <br><br><br><br><br><br><br><br><br>
 </div>
     <?php include 'jumbody.php'?>
@@ -44,8 +45,10 @@
     <?php include 'cyber.php';?>
     <br>
     <?php include 'ellie.php';?>
+    <?php include 'modal.php';?>
+    
 
-    <?php include 'card.php';?>
+    
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     </body>
 <br><br><br><br><br><br><br><br>
