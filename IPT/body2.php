@@ -1,10 +1,10 @@
 <div class="container">
-  <div class="row row-cols-2 row-cols-lg-3 g-0 g-lg-3">
+  <div class="row row-cols-2 p-1 row-cols-lg-3 g-0 g-lg-0">
 
     <div class="col">
       <div class="p-3">
         
-      <div class="card mb-3 text-light bg-transparent " style="max-width: 300px;">
+      <div class="card mb-3 text-light bg-dark " style="max-width: 300px;">
   <div class="row g-0">
     <div class="col-md-4">
       <img src="styles/images/middle/call.jpg" class="img-fluid rounded-start bg-transparent" alt="...">
@@ -32,7 +32,7 @@
     <div class="col">
       <div class="p-3">
         
-      <div class="card mb-3 text-light bg-transparent " style="max-width: 300px;">
+      <div class="card mb-3 text-light bg-dark " style="max-width: 300px;">
   <div class="row g-0">
     <div class="col-md-4">
       <img src="styles/images/middle/far4.jpg" class="img-fluid rounded-start bg-transparent" alt="...">
@@ -60,10 +60,10 @@
     <div class="col">
       <div class="p-3">
         
-      <div class="card mb-3 text-light bg-transparent " style="max-width: 300px;">
+      <div class="card mb-3 text-light bg-dark " style="max-width: 300px;">
   <div class="row g-0">
     <div class="col-md-4">
-      <img src="styles/images/middle/limbo.jpg" class="img-fluid roundedbg-transparent" alt="...">
+      <img src="styles/images/middle/limbo.jpg" class="img-fluid rounded bg-transparent" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -90,7 +90,7 @@
     <div class="col">
       <div class="p-3">
         
-      <div class="card mb-3 text-light bg-transparent " style="max-width: 300px;">
+      <div class="card mb-3 text-light bg-dark " style="max-width: 300px;">
   <div class="row g-0">
     <div class="col-md-4">
       <img src="styles/images/middle/metro.jpg" class="img-fluid roundedbg-transparent" alt="...">
@@ -118,7 +118,7 @@
     <div class="col">
       <div class="p-3">
         
-      <div class="card mb-3 text-light bg-transparent " style="max-width: 300px;">
+      <div class="card mb-3 text-light bg-dark " style="max-width: 300px;">
   <div class="row g-0">
     <div class="col-md-4">
       <img src="styles/images/middle/hog.jpg" class="img-fluid roundedbg-transparent" alt="...">
@@ -148,7 +148,7 @@
     <div class="col">
       <div class="p-3">
         
-      <div class="card mb-3 text-light bg-transparent " style="max-width: 300px;">
+      <div class="card mb-3 text-light bg-dark " style="max-width: 300px;">
   <div class="row g-0">
     <div class="col-md-4">
       <img src="styles/images/middle/star.png" class="img-fluid roundedbg-transparent" alt="...">
@@ -176,14 +176,14 @@
     <div class="col">
       <div class="p-3">
         
-      <div class="card mb-3 text-light bg-transparent " style="max-width: 300px;">
+      <div class="card mb-3 text-light bg-dark " style="max-width: 300px;">
   <div class="row g-0">
     <div class="col-md-4">
       <img src="styles/images/middle/tlou2.png" class="img-fluid roundedbg-transparent" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">The last of Us Part II</h5>
+        <h5 class="card-title">The Last of Us Part II</h5>
         <br>
         <p class="card-text"><small class="text-body-light">$49.99 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-tags" viewBox="0 0 16 16">
   <path d="M3 2v4.586l7 7L14.586 9l-7-7zM2 2a1 1 0 0 1 1-1h4.586a1 1 0 0 1 .707.293l7 7a1 1 0 0 1 0 1.414l-4.586 4.586a1 1 0 0 1-1.414 0l-7-7A1 1 0 0 1 2 6.586z"/>
@@ -204,7 +204,7 @@
     <div class="col">
       <div class="p-3">
         
-      <div class="card mb-3 text-light bg-transparent " style="max-width: 300px;">
+      <div class="card mb-3 text-light bg-dark " style="max-width: 300px;">
   <div class="row g-0">
     <div class="col-md-4">
       <img src="styles/images/middle/far.jpg" class="img-fluid roundedbg-transparent" alt="...">
@@ -232,7 +232,7 @@
     <div class="col">
       <div class="p-3">
         
-      <div class="card mb-3 text-light bg-transparent " style="max-width: 300px;">
+      <div class="card mb-3 text-light bg-dark " style="max-width: 300px;">
   <div class="row g-0">
     <div class="col-md-4">
       <img src="styles/images/middle/val.png" class="img-fluid roundedbg-transparent" alt="...">

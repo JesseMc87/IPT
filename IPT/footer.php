@@ -8,7 +8,7 @@
   <footer class="py-5">
     <div class="row">
       <div class="col-6 col-md-2 mb-3">
-        <h5>Section</h5>
+        <h5>Link</h5>
         <ul class="nav flex-column">
         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Home</a></li>
           <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Pricing</a></li>
@@ -19,23 +19,23 @@
       </div>
 
       <div class="col-6 col-md-2 mb-3">
-        <h5>Section</h5>
+        <h5></h5>
         <ul class="nav flex-column">
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Home</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Pricing</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Features</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">About</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">FAQs</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Company</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Support-a-Creator</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Terms of Service</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Privacy Policy</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Store Refund Policy</a></li>
         </ul>
       </div>
 
       <div class="col-6 col-md-2 mb-3">
-        <h5>Section</h5>
+        <h5>GamePlus+</h5>
         <ul class="nav flex-column ">
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Home</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Features</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Pricing</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">FAQs</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sell</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Blog</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Contact Us</a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Help Center</a></li>
           <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" data-bs-toggle="modal" data-bs-target="#exampleModal">Add Cart</a></li>
         </ul>
       </div>
