@@ -14,7 +14,7 @@
     <div class="cart-wrapper text-bg-dark">
         <div class="container">
             <div class="row g-4">
-                <!-- Cart Items Section -->
+
                 <div class="col-lg-8">
                     <div class="d-flex justify-content-between align-items-center mb-4">
                         <h4 class="mb-0">Shopping Cart</h4>
