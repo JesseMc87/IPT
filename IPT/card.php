@@ -2,7 +2,7 @@
 <div class="container px-5 py-3" id="custom-cards">
     <h2 class="pb-2 border-bottom text-danger ">Discover <?php include 'radio.php';?></h2>
     
-    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-5 py-5">
     <div class="col">
         <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg" style="background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5)), url('styles/images/thelastofus.jpg'); background-size:cover;">
         <br><br><br><br><br>
@@ -164,7 +164,7 @@
         <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg" style="background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5)), url('styles/images/witcher.jpg'); background-size:cover;">
         <br><br><br><br><br>
         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-            <h5 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">The Witcher 3: The Hunt</h5>
+            <h5 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">The Witcher 3 : The Hunt</h5>
             <ul class="d-flex list-unstyled mt-auto">
               <li class="me-auto">
                 <img src="styles/images/naughty.png" alt="Thelastofus" width="32" height="32" class="rounded-circle border border-white">

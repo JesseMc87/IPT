@@ -10,7 +10,7 @@
     <div class="collapse navbar-collapse" id="navbarScroll">
       <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll nav-underline" style="--bs-scroll-height: 100px;">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="landingpage.php">Home</a>
+          <a class="nav-link hover" aria-current="page" href="landingpage.php">Home</a>
         </li>
         <li class="nav-item dropdown ">
           <a class="nav-link dropdown-toggle " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -46,6 +46,11 @@
 </svg>Checkout <span class="badge text-bg-danger"></span></a></li>
           </ul>
         </li>
+
+        <li class="nav-item">
+          <a class="nav-link hover" aria-current="page" href="Signup.php">Sign up</a>
+        </li>
+
       </ul>
       <nav class="navbar bg-body-tertiary">
   <div class="container-fluid">

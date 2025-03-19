@@ -1,6 +1,6 @@
-<div class="row row-cols-1 row-cols-md-4 g-5 p-4">
+<div class="row row-cols-1 row-cols-md-4 g-5 p-5">
 
-  <div class="col ">
+  <div class="col">
     <div class="card text-bg-dark text-center ">
       <img src="styles/images/thelastofus.jpg" class="image card-img" alt="...">
       <div class="card-img-overlay d-inline-flex align-items-end">

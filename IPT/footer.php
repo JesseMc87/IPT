@@ -68,7 +68,7 @@
     </div>
 
     <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top text-white">
-      <p>Copyright &copy; 2025 Game Plus! All Right Reserved</p>
+      <p><small>Copyright &copy; 2025 Game Plus! All Right Reserved</small></p>
     </div>
   </footer>
 </div>

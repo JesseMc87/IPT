@@ -6,24 +6,24 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
     <link href="styles/check.css" rel="stylesheet" type="text/css">
-    <style>
-        
-    </style>
+
 </head>
 <body>
-    <div class="cart-wrapper text-bg-dark">
+<?php include 'navbar.php';?>
+<?php include 'modal.php';?>
+
+
+    <div class="cart cart-wrapper">
         <div class="container">
             <div class="row g-4">
 
                 <div class="col-lg-8">
                     <div class="d-flex justify-content-between align-items-center mb-4">
-                        <h4 class="mb-0">Shopping Cart</h4>
+                        <h4 class="mb-0 text-light">Shopping Cart</h4>
                         <span class="text-light">3 items</span>
                     </div>
 
-                    <!-- Product Cards -->
                     <div class="d-flex flex-column gap-3">
-                        <!-- Product 1 -->
                         <div class="product-card p-3 shadow-sm text-bg-light">
                             <div class="row align-items-center">
                                 <div class="col-md-2">
@@ -35,11 +35,6 @@
                                     <span class="discount-badge mt-2">20% OFF</span>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="d-flex align-items-center gap-2">
-                                        <button class="quantity-btn" onclick="updateQuantity(1, -1)">-</button>
-                                        <input type="number" class="quantity-input" value="1" min="1">
-                                        <button class="quantity-btn" onclick="updateQuantity(1, 1)">+</button>
-                                    </div>
                                 </div>
                                 <div class="col-md-2">
                                     <span class="fw-bold">$49.99</span>
@@ -50,7 +45,7 @@
                             </div>
                         </div>
 
-                        <!-- Product 2 -->
+        
                         <div class="product-card p-3 shadow-sm text-bg-light">
                             <div class="row align-items-center">
                                 <div class="col-md-2">
@@ -61,11 +56,6 @@
                                     <p class="text-muted mb-0">Pc | Console 7</p>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="d-flex align-items-center gap-2">
-                                        <button class="quantity-btn" onclick="updateQuantity(2, -1)">-</button>
-                                        <input type="number" class="quantity-input" value="1" min="1">
-                                        <button class="quantity-btn" onclick="updateQuantity(2, 1)">+</button>
-                                    </div>
                                 </div>
                                 <div class="col-md-2">
                                     <span class="fw-bold">$49.99</span>
@@ -76,7 +66,7 @@
                             </div>
                         </div>
 
-                        <!-- Product 3 -->
+        
                         <div class="product-card p-3 shadow-sm text-bg-light">
                             <div class="row align-items-center">
                                 <div class="col-md-2">
@@ -87,11 +77,6 @@
                                     <p class="text-muted mb-0">Console | Pc</p>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="d-flex align-items-center gap-2">
-                                        <button class="quantity-btn" onclick="updateQuantity(3, -1)">-</button>
-                                        <input type="number" class="quantity-input" value="1" min="1">
-                                        <button class="quantity-btn" onclick="updateQuantity(3, 1)">+</button>
-                                    </div>
                                 </div>
                                 <div class="col-md-2">
                                     <span class="fw-bold">$59.99</span>
@@ -135,8 +120,6 @@
                             <span class="fw-bold text-dark">Total</span>
                             <span class="fw-bold text-dark">$138.97</span>
                         </div>
-
-                        <!-- Promo Code -->
                         <div class="mb-4">
                             <div class="input-group">
                                 <input type="text" class="form-control" placeholder="Promo code">
@@ -159,16 +142,10 @@
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script>
-        function updateQuantity(productId, change) {
-            const input = event.target.parentElement.querySelector('.quantity-input');
-            let value = parseInt(input.value) + change;
-            if (value >= 1) {
-                input.value = value;
-            }
-        }
-    </script>
+    <br><br><br><br><br><br>
+
 </body>
+<?php include 'footer.php';?>
 </html>
 
 

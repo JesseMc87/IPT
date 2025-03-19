@@ -1,7 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap" rel="stylesheet');
+
+.navbar {
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.677));
+    font-family: 'Teko';
+}   
+body{
+    background-color: #111111;
+    font-family: 'Teko';
+}
+
 .cart-wrapper {
-    background-color: #f8f9fa;
+    background-color: #111111;
     min-height: 100vh;
     padding: 40px 0;
+    font-family: 'Teko';
 }
 
 .product-card {

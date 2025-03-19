@@ -4,8 +4,8 @@
     <div class="row">
       <div class="col-12  text-light">
         <div class="mb-5">
-          <h2 class="display-5 fw-bold text-center">Sign Up</h2>
-          <p class="text-center m-0 ">Already have an account? <a href="signin.php" class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sign In</a></p>
+          <h2 class="display-5 fw-bold text-center">Sign In</h2>
+          <p class="text-center m-0 ">Didn't have an account? <a href="signup.php" class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sign In</a></p>
         </div>
       </div>
     </div>
@@ -15,35 +15,18 @@
           <div class="col-12 col-lg-5">
             <form action="#!">
               <div class="row gy-3 overflow-hidden">
-
-              <div class="col-12">
-                  <div class="form-floating mb-3">
-                    <input type="username" class="form-control border-0 border-bottom rounded-0" name="username" id="username" placeholder="UserAdmin$#@!" required>
-                    <label for="username" class="form-label">Username</label>
-                  </div>
-                </div>
-
                 <div class="col-12">
                   <div class="form-floating mb-3">
                     <input type="email" class="form-control border-0 border-bottom rounded-0" name="email" id="email" placeholder="name@example.com" required>
-                    <label for="email" class="form-label">Email</label>
+                    <label for="email" class="form-label">Username/Email</label>
                   </div>
                 </div>
-
                 <div class="col-12">
                   <div class="form-floating mb-3">
                     <input type="password" class="form-control border-0 border-bottom rounded-0" name="password" id="password" value="" placeholder="Password" required>
                     <label for="password" class="form-label">Password</label>
                   </div>
                 </div>
-
-                <div class="col-12">
-                <div class="form-floating mb-3">
-                  <input type="date" class="form-control border-0 border-bottom rounded-0" name="bdate" id="bdate" required>
-                  <label for="bdate" class="form-label text-dark">Birthdate</label>
-                </div>
-              </div>
-
                 <div class="col-12">
                   <div class="row justify-content-between">
                     <div class="col-6">
@@ -52,22 +35,20 @@
                         <label class="form-check-label text-secondary" for="remember_me">
                           Remember me
                         </label>
-                        
                       </div>
                     </div>
                     <div class="col-6">
-                      
+                      <div class="text-end">
+                        <a href="#!" class="link-secondary text-decoration-none">Forgot password?</a>
+                      </div>
                     </div>
                   </div>
                 </div>
                 <div class="col-12">
                   <div class="d-grid">
-                    <button class="btn btn-lg btn-dark text-light rounded-0 fs-6" type="submit">Sign up</button>
+                    <button class="btn btn-lg btn-dark text-light rounded-0 fs-6" type="submit">Log in</button>
                   </div>
                 </div>
-                <div class="text-end">
-                      <small class="text-light">By clicking Sign up, you agree to the <a href="#" class="link-primary text-decoration-none">terms of use.</a></small>
-                      </div>
               </div>
             </form>
           </div>
