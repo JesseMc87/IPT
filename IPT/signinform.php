@@ -1,12 +1,21 @@
 
+<div class="si h-100 p-5   text-end">  
+        <img src="styles/logo.png" alt="Logo" width="200" height="60" class="d-inline-block align-text-top ">      
+        
 <section class="py-3 py-md-5 py-xl-8">
   <div class="container">
     <div class="row">
       <div class="col-12  text-light">
         <div class="mb-5">
-          <h2 class="display-5 fw-bold text-center">Sign In</h2>
-          <p class="text-center m-0 ">Didn't have an account? <a href="signup.php" class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sign In</a></p>
+
+
+        
+        
+
+        <h2 class="display-5 fw-bold text-center">Sign In</h2>
+        <p class="text-center m-0 ">Didn't have an account? <a href="signup.php" class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sign In</a></p>
         </div>
+
       </div>
     </div>
     <div class="row justify-content-center">
@@ -99,3 +108,4 @@
     </div>
   </div>
 </section>
+</div>

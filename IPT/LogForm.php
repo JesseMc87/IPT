@@ -1,11 +1,20 @@
 
+<div class="hell h-100 p-5  rounded-2 text-end">  
+        <img src="styles/logo.png" alt="Logo" width="200" height="60" class="d-inline-block align-text-top ">      
+        <br><br>
 <section class="py-3 py-md-5 py-xl-8">
   <div class="container">
     <div class="row">
       <div class="col-12  text-light">
         <div class="mb-5">
+
+        
+        
+
           <h2 class="display-5 fw-bold text-center">Sign Up</h2>
           <p class="text-center m-0 ">Already have an account? <a href="signin.php" class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sign In</a></p>
+        
+        
         </div>
       </div>
     </div>
@@ -118,3 +127,4 @@
     </div>
   </div>
 </section>
+</div>

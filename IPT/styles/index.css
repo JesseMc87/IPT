@@ -40,6 +40,20 @@
     background-size: cover ;
     background-position: 80%;
 }
+.hell{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.705), rgba(0, 0, 0, 0.808)),url(II.png);
+    font-family: 'Teko';
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: 10%;
+}
+.si{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.623), rgba(0, 0, 0, 0.678)),url(l.jpeg);
+    font-family: 'Teko';
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: 10%;
+}
 body{
     background-color: #111111;
     font-family: 'Teko';
