@@ -59,7 +59,7 @@
                       <div class="form-check">
                         <input class="form-check-input" type="checkbox" value="" name="remember_me" id="remember_me">
                         <label class="form-check-label text-secondary" for="remember_me">
-                          Remember me
+                          Keep me Log in
                         </label>
                         
                       </div>

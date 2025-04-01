@@ -1,3 +1,4 @@
+<!-- (Added to cart) -->
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content text-bg-dark">
@@ -15,6 +16,27 @@
   </div>
 </div>
 
+<!-- (Added to wishlist) -->
+<div class="modal fade" id="wishModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content text-bg-dark">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">Added to Your Wishlist</h1>
+        <button type="button" class="btn-close btn-light" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        Your game has been added to your Wishlist ♥
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-outline-light" data-bs-dismiss="modal">Awesome</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Line Break (Log in) -->
 
 <div class="modal fade" id="Signin" tabindex="-1" aria-labelledby="SigninLabel" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered">
@@ -23,8 +45,9 @@
         <h1 class="fw-bold mb-0 fs-2">Sign In</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
-
+          
       <div class="modal-body p-5 pt-0 ">
+        
         <form class="form">
           <div class="form-floating mb-3">
             <input type="email" class="form-control rounded-3" id="floatingInput" placeholder="name@example.com">
@@ -55,9 +78,10 @@
 
           <button class="w-100 mb-2 btn btn-lg rounded-3 btn-danger" type="submit">Sign in</button>
           <small class="text-body-outline-light">By clicking Sign up, you agree to the <a href="#" class="link-primary text-decoration-none">terms of use.</a></small>
+          
           <hr class="my-4">
           <h2 class="fs-5 fw-bold mb-3">Or use a third-party</h2>
-
+  
           <a href="#!" class="btn bsb-btn-2xl btn-outline-secondary rounded-0 d-flex align-items-center m-2">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-google" viewBox="0 0 16 16">
   <path d="M15.545 6.558a9.4 9.4 0 0 1 .139 1.626c0 2.434-.87 4.492-2.384 5.885h.002C11.978 15.292 10.158 16 8 16A8 8 0 1 1 8 0a7.7 7.7 0 0 1 5.352 2.082l-2.284 2.284A4.35 4.35 0 0 0 8 3.166c-2.087 0-3.86 1.408-4.492 3.304a4.8 4.8 0 0 0 0 3.063h.003c.635 1.893 2.405 3.301 4.492 3.301 1.078 0 2.004-.276 2.722-.764h-.003a3.7 3.7 0 0 0 1.599-2.431H8v-3.08z"/>
@@ -87,7 +111,7 @@
                 <span class="ms-2 fs-6 flex-grow-1">Continue with Twitch</span>
               </a>
 
-
+              <p class="text-center m-0 ">Already have an account? <a href="signin.php" class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sign In</a></p>
         </form>
       </div>
     </div>

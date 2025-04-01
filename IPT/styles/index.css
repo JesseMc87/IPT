@@ -48,7 +48,7 @@
     background-position: 10%;
 }
 .si{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.623), rgba(0, 0, 0, 0.678)),url(l.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.623), rgba(0, 0, 0, 0.678)),url(spidym.jpg);
     font-family: 'Teko';
     background-repeat: no-repeat;
     background-size: cover ;
@@ -75,6 +75,11 @@ h5{
 p{
     font-family: 'Teko';
     font-size: 18px;
+}
+
+.tt{
+    font-family: 'Teko';
+    font-size:medium;
 }
 .text{
     text-align: justify;

@@ -1,6 +1,6 @@
 
 <div class="si h-100 p-5   text-end">  
-        <img src="styles/logo.png" alt="Logo" width="200" height="60" class="d-inline-block align-text-top ">      
+        <img src="styles/logo1.png" alt="Logo" width="200" height="60" class="d-inline-block align-text-top ">      
         
 <section class="py-3 py-md-5 py-xl-8">
   <div class="container">

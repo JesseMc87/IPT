@@ -1,0 +1,33 @@
+.pagination-gradient {
+    margin: 0rem 0;
+}
+
+.pagination-gradient .page-link {
+    border: none;
+    padding: 4px 18px;
+    margin: 0 5px;
+    border-radius: 50%;
+    color: #c2c2c2;
+    transition: all 0.3s ease;
+    background: #f8f9fa36;
+}
+
+.pagination-gradient .page-item.active .page-link {
+    
+    background: linear-gradient(45deg, #dc3545, #a178df);
+    color: white;
+    box-shadow: 0 2px 10px rgba(107, 92, 231, 0.4);
+}
+
+.pagination-gradient .page-link:hover {
+    background: linear-gradient(45deg, #dc3545, #6b5ce7);
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(107, 92, 231, 0.4);
+}
+
+.pagination-gradient .page-item.disabled .page-link {
+    background: #f8f9fa36;
+    color: #6c757d;
+    cursor: not-allowed;
+}
